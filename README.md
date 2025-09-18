@@ -32,8 +32,7 @@ A Python web app that lets users upload an image of an animal or insect, identif
 
 - Python 3.7+  
 - (Optional) Virtual environment tool (`venv` or `virtualenv`)  
-- Gemini API key (or whichever AI service you configure)  
-- Dependencies listed in `requirements.txt`
+- Gemini API key (or whichever AI service you configure) 
 
 ### Installation
 
